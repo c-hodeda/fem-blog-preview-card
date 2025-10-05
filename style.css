@@ -54,10 +54,11 @@
         border-radius: 0.6rem;
     }
 
-    h2 {
+    h1 {
         color: var(--clr-gray-950);
         font-weight: var(--fw-bold);
         width: fit-content;
+        font-size: calc(22 / 16 * 1rem);
     }
 
     p {
